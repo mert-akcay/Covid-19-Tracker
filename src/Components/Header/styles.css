@@ -1,0 +1,44 @@
+.logoholder {
+    padding-top: 3vh;
+    padding-bottom: 1.7vh;
+}
+
+.cardTitle {
+    font-weight: bold;
+    text-align: left;
+    padding-top: 6px;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.descNum {
+    font-size: 1.5rem;
+    text-align: left;
+    color: black;
+    margin: 0;
+}
+
+.lastUpdate {
+    font-size: 1rem;
+    color: black;
+    text-align: left;
+    margin: 0;
+}
+
+.date {
+    font-size: 0.88rem;
+    text-align: left;
+    margin: 0;
+}
+
+.cardFooter {
+    font-size: 0.88rem;
+    text-align: left;
+    color: black;
+    margin-bottom: 0;
+}
+
+.cardFooter .country {
+    font-size: 0.95rem;
+    
+}
